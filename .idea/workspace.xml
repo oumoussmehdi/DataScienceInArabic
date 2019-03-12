@@ -3,8 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="c0014516-4cee-4961-8981-a0272f26ce6b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/PythonBasics-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/PythonBasics-checkpoint.ipynb" />
-      <change beforePath="$PROJECT_DIR$/PythonBasics.ipynb" afterPath="$PROJECT_DIR$/PythonBasics.ipynb" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/EDA - Exploratory Data Analysis-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/EDA - Exploratory Data Analysis-checkpoint.ipynb" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/PythonBasics-checkpoint.ipynb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Data Visualisation.ipynb" afterPath="$PROJECT_DIR$/Data Visualisation.ipynb" />
+      <change beforePath="$PROJECT_DIR$/EDA - Exploratory Data Analysis.ipynb" afterPath="$PROJECT_DIR$/EDA - Exploratory Data Analysis.ipynb" />
+      <change beforePath="$PROJECT_DIR$/Python Data Structures.ipynb" afterPath="$PROJECT_DIR$/Python Data Structures.ipynb" />
+      <change beforePath="$PROJECT_DIR$/PythonBasics.ipynb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/numpy_introduction.ipynb" afterPath="$PROJECT_DIR$/numpy_introduction.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,7 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="750" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,12 +37,15 @@
         <option value="$PROJECT_DIR$/numpy_introduction.ipynb" />
         <option value="$PROJECT_DIR$/DeepLearning.ipynb" />
         <option value="$PROJECT_DIR$/Pandas.ipynb" />
+        <option value="$PROJECT_DIR$/American-Time-Use-Survey-lite.sql" />
+        <option value="$PROJECT_DIR$/Data Visualisation.ipynb" />
+        <option value="$PROJECT_DIR$/Python Data Structures.ipynb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="267" />
-    <option name="y" value="83" />
+    <option name="x" value="489" />
+    <option name="y" value="356" />
     <option name="width" value="3030" />
     <option name="height" value="1695" />
   </component>
@@ -56,6 +64,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -63,23 +72,28 @@
               <item name="DataScienceInArabic" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataScienceInArabic" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DataScienceInArabic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataScienceInArabic" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python_code" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ftt-dataviz" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic\data" />
       <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic" />
     </key>
   </component>
@@ -130,7 +144,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="267" y="83" width="3030" height="1695" extended-state="0" />
+    <frame x="489" y="356" width="3030" height="1695" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -138,9 +153,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900676" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32872728" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872728" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25381818" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25458872" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25458872" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -164,13 +179,42 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PythonBasics.ipynb">
+    <entry file="file://$PROJECT_DIR$/Python Data Structures.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Python Data Structures.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Data Structures.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonBasics.ipynb" />
     <entry file="file://$PROJECT_DIR$/ML_Clustering.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -255,17 +299,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBasics.ipynb">
+    <entry file="file://$PROJECT_DIR$/DeepLearning.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearning.ipynb">
+    <entry file="file://$PROJECT_DIR$/American-Time-Use-Survey-lite" />
+    <entry file="file://$PROJECT_DIR$/PythonBasics.ipynb" />
+    <entry file="file://$PROJECT_DIR$/data/American-Time-Use-Survey-lite.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="44459" column="165" lean-forward="false" selection-start-line="44459" selection-start-column="165" selection-end-line="44459" selection-end-column="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv2sql.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Data Structures2.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Python Data Structures.py" />
+    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Data Structures.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="5" />
         </state>
       </provider>
     </entry>
