@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0014516-4cee-4961-8981-a0272f26ce6b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/fifa19.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/nations.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/temp-plot.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/DataViz-checkpoint.ipynb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Plotly-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Plotly-checkpoint.ipynb" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Seaborn-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Seaborn-checkpoint.ipynb" />
-      <change beforePath="$PROJECT_DIR$/Bokeh.ipynb" afterPath="$PROJECT_DIR$/Bokeh.ipynb" />
-      <change beforePath="$PROJECT_DIR$/DataViz.ipynb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Plotly.ipynb" afterPath="$PROJECT_DIR$/Plotly.ipynb" />
-      <change beforePath="$PROJECT_DIR$/Seaborn.ipynb" afterPath="$PROJECT_DIR$/Seaborn.ipynb" />
+      <change beforePath="$PROJECT_DIR$/Bokeh.ipynb" afterPath="$PROJECT_DIR$/DataVisualisation/Bokeh.ipynb" />
+      <change beforePath="$PROJECT_DIR$/Data Visualisation.ipynb" afterPath="$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb" />
+      <change beforePath="$PROJECT_DIR$/EDA/EDA_fifa19.ipynb" afterPath="$PROJECT_DIR$/EDA/EDA_fifa19.ipynb" />
+      <change beforePath="$PROJECT_DIR$/EDA/EDA_nations.ipynb" afterPath="$PROJECT_DIR$/EDA/EDA_nations.ipynb" />
+      <change beforePath="$PROJECT_DIR$/Matplotlib.ipynb" afterPath="$PROJECT_DIR$/DataVisualisation/Matplotlib.ipynb" />
+      <change beforePath="$PROJECT_DIR$/Plotly.ipynb" afterPath="$PROJECT_DIR$/DataVisualisation/Plotly.ipynb" />
+      <change beforePath="$PROJECT_DIR$/Seaborn.ipynb" afterPath="$PROJECT_DIR$/DataVisualisation/Seaborn.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,12 +19,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="750">
-      <file leaf-file-name="Data Visualisation.ipynb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
+    <leaf>
+      <file leaf-file-name="DeepLearning.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DeepLearning.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="2" />
+              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -37,8 +34,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -55,6 +52,9 @@
         <option value="$PROJECT_DIR$/Python Data Structures.ipynb" />
         <option value="$PROJECT_DIR$/draft.py" />
         <option value="$PROJECT_DIR$/Data Visualisation.ipynb" />
+        <option value="$PROJECT_DIR$/EDA/EDA_nations.ipynb" />
+        <option value="$PROJECT_DIR$/EDA/EDA_fifa19.ipynb" />
+        <option value="$PROJECT_DIR$/DataVisualisation/Seaborn.ipynb" />
       </list>
     </option>
   </component>
@@ -79,7 +79,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -87,10 +86,26 @@
               <item name="DataScienceInArabic" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataScienceInArabic" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DataScienceInArabic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataScienceInArabic" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataScienceInArabic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataScienceInArabic" type="462c0819:PsiDirectoryNode" />
+              <item name="DataVisualisation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataScienceInArabic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataScienceInArabic" type="462c0819:PsiDirectoryNode" />
+              <item name="EDA" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -99,14 +114,16 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic\data" />
-      <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic\Cheat_Sheets" />
       <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic\data" />
       <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic\image" />
+      <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic\DataVisualisation" />
+      <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic\EDA" />
+      <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic\data" />
       <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic" />
     </key>
   </component>
@@ -227,147 +244,119 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
+    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
+    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
+    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
+    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
+    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
+    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
+    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
+    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
+    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
+    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
+    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
+    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
+    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
+    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
+    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
+    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
+    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
@@ -395,14 +384,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
+    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
+    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
@@ -494,13 +483,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearning.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/American-Time-Use-Survey-lite" />
     <entry file="file://$PROJECT_DIR$/PythonBasics.ipynb" />
     <entry file="file://$PROJECT_DIR$/data/American-Time-Use-Survey-lite.sql">
@@ -547,10 +529,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Visualisation.ipynb">
+    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EDA/EDA_nations.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EDA/EDA_fifa19.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataVisualisation/Seaborn.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataVisualisation/Bokeh.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearning.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
