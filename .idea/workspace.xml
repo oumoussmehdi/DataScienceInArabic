@@ -3,16 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="c0014516-4cee-4961-8981-a0272f26ce6b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/DataVisualisation/Matplotlib.ipynb" afterPath="$PROJECT_DIR$/DataVisualisation/Matplotlib.ipynb" />
-      <change beforePath="$PROJECT_DIR$/ML_Clustering.ipynb" afterPath="$PROJECT_DIR$/MachineLearning/ML_Clustering.ipynb" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning.ipynb" afterPath="$PROJECT_DIR$/MachineLearning/MachineLearning.ipynb" />
-      <change beforePath="$PROJECT_DIR$/Pandas.ipynb" afterPath="$PROJECT_DIR$/Python/Pandas.ipynb" />
-      <change beforePath="$PROJECT_DIR$/Python Data Structures.ipynb" afterPath="$PROJECT_DIR$/Python/Python Data Structures.ipynb" />
-      <change beforePath="$PROJECT_DIR$/Scikit learn.ipynb" afterPath="$PROJECT_DIR$/MachineLearning/Scikit learn.ipynb" />
-      <change beforePath="$PROJECT_DIR$/Titanic EDA.ipynb" afterPath="$PROJECT_DIR$/EDA/Titanic EDA.ipynb" />
-      <change beforePath="$PROJECT_DIR$/numpy_introduction.ipynb" afterPath="$PROJECT_DIR$/Python/numpy_introduction.ipynb" />
-      <change beforePath="$PROJECT_DIR$/scipy_introduction.ipynb" afterPath="$PROJECT_DIR$/Python/scipy_introduction.ipynb" />
-      <change beforePath="$PROJECT_DIR$/test.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/DataVisualisation/.ipynb_checkpoints/Seaborn-checkpoint.ipynb" afterPath="$PROJECT_DIR$/DataVisualisation/.ipynb_checkpoints/Seaborn-checkpoint.ipynb" />
+      <change beforePath="$PROJECT_DIR$/DataVisualisation/Seaborn.ipynb" afterPath="$PROJECT_DIR$/DataVisualisation/Seaborn.ipynb" />
+      <change beforePath="$PROJECT_DIR$/EDA/.ipynb_checkpoints/EDA_fifa19-checkpoint.ipynb" afterPath="$PROJECT_DIR$/EDA/.ipynb_checkpoints/EDA_fifa19-checkpoint.ipynb" />
+      <change beforePath="$PROJECT_DIR$/EDA/.ipynb_checkpoints/EDA_nations-checkpoint.ipynb" afterPath="$PROJECT_DIR$/EDA/.ipynb_checkpoints/EDA_nations-checkpoint.ipynb" />
+      <change beforePath="$PROJECT_DIR$/EDA/EDA_fifa19.ipynb" afterPath="$PROJECT_DIR$/EDA/EDA_fifa19.ipynb" />
+      <change beforePath="$PROJECT_DIR$/EDA/EDA_nations.ipynb" afterPath="$PROJECT_DIR$/EDA/EDA_nations.ipynb" />
+      <change beforePath="$PROJECT_DIR$/EDA/Titanic EDA.ipynb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/MachineLearning/Scikit learn.ipynb" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,7 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="750">
       <file leaf-file-name="DeepLearning.ipynb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DeepLearning.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
@@ -82,6 +80,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,12 +118,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ftt-dataviz" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../workflow-composer" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -225,6 +223,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="520" y="133" width="3030" height="1695" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287373" sideWeight="0.4932019" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -234,7 +233,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872728" sideWeight="0.49592113" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32872728" sideWeight="0.49728075" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25163636" sideWeight="0.49592113" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25458872" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25458872" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -258,13 +257,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -571,9 +563,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/test.png" />
+    <entry file="file://$PROJECT_DIR$/data/pokemon.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31410">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearning.ipynb">
