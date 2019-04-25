@@ -3,12 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="c0014516-4cee-4961-8981-a0272f26ce6b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/.ipynb_checkpoints/Scikitlearn - Classification -checkpoint.ipynb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/.ipynb_checkpoints/Scikitlearn - Clustering-checkpoint.ipynb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/.ipynb_checkpoints/Scikitlearn - Regression-checkpoint.ipynb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/Scikitlearn - Classification .ipynb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/Scikitlearn - Clustering.ipynb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/Scikitlearn - Regression.ipynb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/draft-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/draft-checkpoint.ipynb" />
+      <change beforePath="$PROJECT_DIR$/MachineLearning/ML_Clustering.ipynb" afterPath="$PROJECT_DIR$/MachineLearning/General/ML_Clustering.ipynb" />
+      <change beforePath="$PROJECT_DIR$/MachineLearning/MachineLearning.ipynb" afterPath="$PROJECT_DIR$/MachineLearning/General/MachineLearning.ipynb" />
+      <change beforePath="$PROJECT_DIR$/MachineLearning/Supervised Learning - Classification .ipynb" afterPath="$PROJECT_DIR$/MachineLearning/General/Supervised Learning - Classification .ipynb" />
+      <change beforePath="$PROJECT_DIR$/MachineLearning/Supervised Learning - Regression.ipynb" afterPath="$PROJECT_DIR$/MachineLearning/General/Supervised Learning - Regression.ipynb" />
+      <change beforePath="$PROJECT_DIR$/MachineLearning/Unsupervised Learning - Clustering.ipynb" afterPath="$PROJECT_DIR$/MachineLearning/General/Unsupervised Learning - Clustering.ipynb" />
+      <change beforePath="$PROJECT_DIR$/draft.ipynb" afterPath="$PROJECT_DIR$/draft.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,17 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="750">
-      <file leaf-file-name="DeepLearning.ipynb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DeepLearning.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="750" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,12 +45,16 @@
         <option value="$PROJECT_DIR$/EDA/EDA_nations.ipynb" />
         <option value="$PROJECT_DIR$/EDA/EDA_fifa19.ipynb" />
         <option value="$PROJECT_DIR$/DataVisualisation/Seaborn.ipynb" />
+        <option value="$PROJECT_DIR$/draft.ipynb" />
+        <option value="$PROJECT_DIR$/MachineLearning/SupervisedLearning/SVM.ipynb" />
+        <option value="$PROJECT_DIR$/MachineLearning/UnSupervisedLearning/Kmeans.ipynb" />
+        <option value="$PROJECT_DIR$/MachineLearning/UnSupervisedLearning/DBscan.ipynb" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="520" />
-    <option name="y" value="133" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="767" />
+    <option name="y" value="216" />
     <option name="width" value="3030" />
     <option name="height" value="1695" />
   </component>
@@ -88,43 +83,45 @@
             <path>
               <item name="DataScienceInArabic" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataScienceInArabic" type="462c0819:PsiDirectoryNode" />
-              <item name="DataVisualisation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataScienceInArabic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataScienceInArabic" type="462c0819:PsiDirectoryNode" />
               <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataScienceInArabic" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataScienceInArabic" type="462c0819:PsiDirectoryNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="SupervisedLearning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataScienceInArabic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataScienceInArabic" type="462c0819:PsiDirectoryNode" />
+              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="UnSupervisedLearning" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../workflow-composer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic\EDA" />
-      <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic\MachineLearning" />
-      <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic\Python" />
-      <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic\DataVisualisation" />
-      <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic\data" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic\Cheat_Sheets" />
       <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic\data" />
       <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic\image" />
       <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic\MachineLearning\General" />
+      <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic\EDA" />
+      <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic\MachineLearning" />
+      <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic\Python" />
+      <recent name="C:\Users\Fouzia Yessad\PycharmProjects\DataScienceInArabic\DataVisualisation" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -210,8 +207,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="520" y="133" width="3030" height="1695" extended-state="1" />
-    <editor active="true" />
+    <frame x="767" y="216" width="3030" height="1695" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287373" sideWeight="0.4932019" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -219,9 +215,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287373" sideWeight="0.5067981" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872728" sideWeight="0.49592113" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872728" sideWeight="0.49728075" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32872728" sideWeight="0.49728075" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25163636" sideWeight="0.49592113" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25458872" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32630864" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -245,34 +241,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -379,7 +347,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PythonBasics.ipynb" />
-    <entry file="file://$PROJECT_DIR$/MachineLearning/ML_Clustering.ipynb">
+    <entry file="file://$PROJECT_DIR$/MachineLearning/General/ML_Clustering.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
@@ -456,7 +424,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/ML_Clustering.ipynb">
+    <entry file="file://$PROJECT_DIR$/MachineLearning/General/ML_Clustering.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
@@ -557,7 +525,35 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/SupervisedLearning/SVM.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/UnSupervisedLearning/Kmeans.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/draft.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DeepLearning.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/UnSupervisedLearning/DBscan.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
