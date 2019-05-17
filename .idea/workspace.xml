@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c0014516-4cee-4961-8981-a0272f26ce6b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/SupervisedLearning/.ipynb_checkpoints/RandomForest-checkpoint.ipynb" afterPath="$PROJECT_DIR$/MachineLearning/SupervisedLearning/.ipynb_checkpoints/RandomForest-checkpoint.ipynb" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/HackerRank-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/HackerRank-checkpoint.ipynb" />
+      <change beforePath="$PROJECT_DIR$/HackerRank.ipynb" afterPath="$PROJECT_DIR$/HackerRank.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,6 +20,15 @@
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="draft.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/draft.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -57,9 +67,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-14" />
-    <option name="y" value="224" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="711" />
+    <option name="y" value="194" />
     <option name="width" value="2768" />
     <option name="height" value="1695" />
   </component>
@@ -79,7 +89,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -87,31 +96,15 @@
               <item name="DataScienceInArabic" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataScienceInArabic" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DataScienceInArabic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataScienceInArabic" type="462c0819:PsiDirectoryNode" />
-              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataScienceInArabic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataScienceInArabic" type="462c0819:PsiDirectoryNode" />
-              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="SupervisedLearning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataScienceInArabic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataScienceInArabic" type="462c0819:PsiDirectoryNode" />
-              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="UnSupervisedLearning" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DSO2019" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -212,7 +205,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-14" y="224" width="2768" height="1695" extended-state="0" />
+    <frame x="711" y="194" width="2768" height="1695" extended-state="1" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287373" sideWeight="0.4932019" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -221,7 +214,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872728" sideWeight="0.49592113" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32872728" sideWeight="0.49728075" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25108853" sideWeight="0.49592113" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2509091" sideWeight="0.49592113" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35820895" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -246,13 +239,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataVisualisation/Data Visualisation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -537,13 +523,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/draft.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MachineLearning/UnSupervisedLearning/DBscan.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -552,6 +531,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MachineLearning/SupervisedLearning/LogisticRegression.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/draft.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
